@@ -1,0 +1,24 @@
+.header__container {
+  padding-inline: 36px;
+}
+
+.main__container {
+  height: calc(100dvh - 124px);
+  max-height: 90dvh;
+  width: 100vw;
+  max-width: 100%;
+}
+
+.form__controls {
+  margin-inline: 36px;
+  max-width: 400px;
+}
+
+.form__fieldset {
+  margin-block-start: 8px;
+}
+
+.form__input {
+  display: block;
+  margin-block-start: 4px;
+}
