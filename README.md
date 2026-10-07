@@ -1,4 +1,4 @@
-Vinci3D Take Home Assignment
+# Vinci3D Take Home Assignment
 
 ## Goals
 
@@ -48,3 +48,7 @@ Incomplete:
 So what I'd tackle next are those things, as well as something specific to the manipulation that I did add:
 
 - Need a debounce on color selection
+
+## Screenshot
+
+![Screenshot of the app](./public/screenshot_app.png)
